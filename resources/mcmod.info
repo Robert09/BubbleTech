@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bubbletech",
+  "name": "Bubble Tech",
+  "description": "Some basic tech blocks to test making a mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["O3Bubbles09"],
+  "credits": "All code done by O3Bubbles09",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,22 @@
+# - Items - #
+item.ingot_copper.name=Copper Ingot
+item.ingot_tin.name=Tin Ingot
+item.heart.name=Heart
+item.soulstealer.name=Soul Stealer
+# - Tools - #
+# - Axes - #
+item.tin_axe.name=Tin Axe
+# - Hoes - #
+item.tin_hoe.name=Tin Hoe
+# - Pickaxes - #
+item.tin_pickaxe.name=Tin Pickaxe
+# - Spades - #
+item.tin_spade.name=Tin Shovel
+# - Swords - #
+item.tin_sword.name=Tin Sword
+# - Blocks - #
+tile.ore_copper.name=Copper Ore
+tile.ore_tin.name=Tin Ore
+# - ToolTips - #
+bubbletech.heart.tooltip=Give the player 1 heart upon consumption.
+bubbletech.soulstealer.tooltip=Steal the heart of any living creature >:)
